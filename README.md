@@ -1,9 +1,8 @@
 # 02240334_WEB101_PA1
-**Name:** Ashis Rai
-**Student ID:** 02240334
-**Module:** WEB101
-**Date:** April 3, 2026
-
+**Name:** Ashis Rai <br>
+**Student ID:** 02240334<br>
+**Module:** WEB101<br>
+**Date:** April 3, 2026<br>
 
 # Github Repo Link
 https://github.com/AshisRai503/02240334_WEB101_PA1.git
