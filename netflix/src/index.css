@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+
+/* Tablet screens */
+@media (max-width: 768px) {
+  h1 {
+    font-size: 24px;
+  }
+
+  
+  img {
+    min-width: 120px;
+  }
+}
+
+/* Mobile screens */
+@media (max-width: 480px) {
+  h1 {
+    font-size: 18px;
+  }
+  nav {
+    padding: 10px 20px !important;
+  }
+  button {
+    padding: 8px 16px !important;
+    font-size: 12px !important;
+  }
+}
