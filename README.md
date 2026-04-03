@@ -14,6 +14,15 @@ https://github.com/AshisRai503/02240334_WEB101_PA1.git
 ## Overview
 - This web page is a simplified replica of the Netflix webpage. It has basic features like responsive navigation bar, a hero banner with movie title and action buttons, a hover animation on movie cards and lastly a responsive design for dektop, tablets and mobile.
 
+## Features
+- Netflix-style navigation bar with logo and Sign In button
+- Full screen hero banner with movie title, description and action buttons
+- Reusable movie card components with hover zoom effect
+- Horizontal scrollable movie rows with left and right arrow navigation
+- Fully responsive design for desktop, tablet and mobile
+- Netflix color theme (dark background, red accents)
+- Organized component architecture following single responsibility principle
+
 ## Component Architecture
 ``` bash
 02240334_WEB101_PA1/
@@ -50,6 +59,19 @@ https://github.com/AshisRai503/02240334_WEB101_PA1.git
 npm install
 npm run dev
 ```
+## Responsive Design
+Tested on:
+- Desktop (1920x1080)
+- Tablet (768px)
+- Mobile (480px)
+
+## Functionality
+The Netflix homepage has the following functionality:
+- Users can view movies organized by category rows
+- Users can scroll through movies using arrow buttons
+- Users can hover over movie cards to see zoom effect
+- The layout adapts to different screen sizes automatically
+
 ## References
 - Netflix.com
 - React Documentation: https://react.dev
